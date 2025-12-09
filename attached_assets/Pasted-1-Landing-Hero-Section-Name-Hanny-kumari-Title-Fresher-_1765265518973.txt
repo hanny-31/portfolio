@@ -1,0 +1,168 @@
+1️⃣ Landing Hero Section
+
+
+Name: Hanny kumari
+
+
+Title: Fresher
+
+
+Animated neon-glitch text
+
+
+Background image: Glass + Blur Effect
+
+
+Three.js background: Particle wave + neon laser grid
+
+
+
+
+
+🔵 2️⃣ About Me
+
+
+Image placeholder (circle with neon border + subtle hover glow)
+
+
+Bullet points (scroll parallax + fade-in motion):
+
+
+Time management
+
+
+Fast learner
+
+
+Curiosity to learn new things
+
+
+Focus on performance
+
+
+
+
+
+🟢 3️⃣ Skills
+
+
+Grid cards with icons + hover magnetic effect + neon outline
+
+
+Skills:
+
+
+HTML, CSS, JavaScript (basic)
+
+
+
+
+
+
+
+
+
+
+
+🟠 5️⃣ Education
+
+
+Vertical timeline with glow nodes + hover reveals
+
+
+10th: LNB High school chapra-78%
+
+
+12th: — LNB High school chapra-69%
+
+
+Pursuing BCA: Arcade Business College,patna
+
+
+
+
+
+🔴 6️⃣ Contact
+
+
+Contact form with EmailJS (or placeholder API)
+
+
+Contact number:7903366900
+
+
+Social Icons:
+
+
+LinkedIn: https://www.linkedin.com/public-profile/settings
+
+
+
+
+
+Email: hannykri.31@gmail.com
+
+
+
+
+3D floating icons slowly rotating
+
+
+
+⚡ Extra Features
+
+
+Smooth cursor-follower aura
+
+
+Page transition glitch animation
+
+
+Loader animation with initials: AK
+
+
+Light performance optimization
+
+
+SEO metadata
+
+
+Reusable components + clean folder structure
+
+
+
+📂 Suggested Folder Structure
+src/
+ ├── app/
+ │   ├── page.tsx
+ │   ├── about/page.tsx
+ │   ├── projects/page.tsx
+ │   ├── contact/page.tsx
+ ├── components/
+ ├── assets/
+ ├── styles/
+ ├── lib/
+
+
+⚙️ Delivery Instructions for Replit AI
+
+
+Generate the full Next.js + TypeScript project
+
+
+Create all sections with animations, Three.js background, and Barba.js transitions
+
+
+Include all content exactly as above
+
+
+Add comments for every major code block
+
+
+Explain how to run locally and deploy to Vercel
+
+
+PROMPT END
+
+If you want, I can also generate the actual ready-to-use Next.js + TypeScript + Three.js project structure with all these sections fully coded so you can immediately run it in Replit.
+Do you want me to do that next?
